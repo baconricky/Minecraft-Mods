@@ -1,0 +1,7 @@
+#Blocks
+tile.mfs:summonersAlter.name=Summoners Alter
+
+#Items
+item.mfs:summoningStone.name=Summoning Stone
+item.mfs:bindingGem.name=Binding Gem
+item.mfs:gemDust.name=Gem Dust

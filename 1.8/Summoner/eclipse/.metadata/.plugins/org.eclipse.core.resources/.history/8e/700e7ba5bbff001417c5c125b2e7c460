@@ -1,0 +1,10 @@
+package com.moldfire.mfsummoner.items;
+
+public class ItemDevWorkshop extends ItemMFS 
+{
+	public ItemDevWorkshop(String name)
+	{
+		super(name);
+		this.setMaxStackSize(1);
+	}
+}
